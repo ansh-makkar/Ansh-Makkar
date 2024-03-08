@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Data Science, Machine Learning, Data Analytics**
 
-- 📫 How to reach me **anshmakkar64@gmail.com**
+- 📫 You Can Reach Me Out On **anshmakkar64@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
