@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **New Machine Learning Ideas or Data Science Projects**
 
-- 💬 Ask me about **Python, Data Science, Machine Learning, Data Analytics**
+- 💬 Ask me about **Python, Data Science, Machine Learning, Data Analytics, Streamlit, Selenium (Web-Automation), Web Scrapping, ADB (Android Debug Bridge) i.e Android App Automation.**
 
 - 📫 You Can Reach Me Out On **anshmakkar64@gmail.com**
 
